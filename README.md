@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+**DOM** stands for **D**ocument **O**bject **M**odel and defines the structure of documents and how a document can be accessed and manipulated.
+
 2. What is an event?
+
+An **event** in HTML are things that happen to HTML elements. It can be anything from something being clicked, scrolled, finished loading, etc.
 
 3. What is an event listener?
 
+An **event listener** is a function that waits for a certain event to occur.
+
 4. Why would we convert a NodeList into an Array?
 
+Converting a **NodeList** into an **Array** allows access to useful array methods such as `.forEach`, `.map`, `.filter`, etc.
+
 5. What is a component?
+
+A **component** is a reusable piece of code that can allow us to define multiple objects. 
 
 ### Git Set up
 
